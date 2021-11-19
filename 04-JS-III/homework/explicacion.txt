@@ -1,0 +1,8 @@
+Un array es como una cartuchera ordenada, donde cada lapiz, birome, goma, o cosa que este en la cartuchera tiene un numero asignado.
+Dentro de la cartuchera podemos tener muchas cosas, y asi pasa con los arrays, que pueden tener un numero muy grande de cosas dentro.
+En una cartuchera por lo general no tenemos tantas cosas, pero que pasaria si tenes 50 lapices de distintos colores, 45 biromes distintas, 5 gomas distintas, y 3 tijeras de distinto tamanio?
+En este caso, encontrar algo dentro de nuestra cartuchera se haria muy dificil. Por eso, como dije al principio, es buena idea que cada util que tenga la cartuchera tenga un numero.
+Porque? Porque de esa forma si sabemos por ejemplo que el lapiz verde es el numero 3 y queremos buscar el lapiz verde, al abrir la cartuchera buscamos directamente el numero 3 y
+rapidamente tenemos nuestro lapiz verde.
+En la computadora, tener ciertas cosas dentro de un array (o nuestra cartuchera) nos permite hacer otro monton de cosas, como por ejemplo recorrer cada uno de los utiles de la cartuchera
+para poder averiguar cuantos de estos son lapices, o cuantos son biromes, y muchas otras cosas mas.
