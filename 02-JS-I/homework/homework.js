@@ -243,7 +243,7 @@ function esVocal(letra) {
   //Escribe tu código aquí
 
   const vocales = ["a", "e", "i", "o", "u"];
-  if (!vocales.includes(letra.toLowerCase()) | (letra.length > 1)) {
+  if (!vocales.includes(letra.toLowerCase()) || letra.length > 1) {
     return "Dato incorrecto";
   } else if (vocales.includes(letra.toLowerCase())) {
     return "Es vocal";
