@@ -1,0 +1,27 @@
+For: El for se usa cuando tenemos que hacer algo muchas veces. Por ejemplo, imaginate que le tenes que pedir a una computadora que junte tus juguetes.
+Ves en el piso, y hay 15 juguetes. Podrias decirle a la computadora 15 veces "junta este juguete", y luego "junta este otro", pero eso tomaria mucho tiempo.
+Para eso se puede usar el "for", que significa "para" en espaniol.
+Lo podemos usar para juntar los juguetes diciendo "para los juguetes, hasta 15 veces, junta el juguete".
+De esta forma, la computadora va a hacer 15 veces la accion de "juntar el juguete", en ves de tener que decirle todo el tiempo que junte los juguetes. 
+La computadora va a ir juntando de uno en uno los jugetes, hasta que complete los 15 juguetes que le indicamos.
+
+&&: Imaginate que vos vas a futbol, y para practicar tenes que usar una remera roja.
+Si yo te dijera "vos vas a futbol y para practicar usas una remera verde", vos me dirias que esto es cierto o es mentira?
+Es mentira, porque es cierto que vas a futbol, pero no es cierto que usas una remera verde. Para eso esta el &&.
+&& se puede traducir a "y". En la frase "vos vas a futbol Y para practicar usas una remera verde", el Y hace que ambas partes de la frase tengan que ser verdad, para que toda la frase sea verdad.
+A que me refiero con esto?. En la frase tenemos dos partes: la primera es "vos vas a futbol", que es verdad; la segunda es "usas una remera verde", que es mentira.
+Como usamos un "Y" para unir ambas partes, para que la frase entera sea verdad, las dos partes de la frase tienen que ser verdad.
+Eso hace el operador &&, revisa que ambas partes de algo sean verdad, y si lo son, entonces nos devuelve un "verdadero". Si alguna de las partes no lo es, devuelve "falso".
+
+||: Imaginate que volves de comer, y comiste una hamburguesa. Entonces yo te digo algo, a lo cual vos solos podes responder "verdadero" o "falso".
+Te digo "o comiste una ensalada o una milanesa". Vos me vas a decir "falso", porque no comiste ni una ensalada, ni tampoco una milanesa.
+Ambas partes de esa frase son falsas, porque "comiste una ensalada" es falso, y "comiste una milanesa" tambien es falso.
+Ahora, imaginate que te digo "o comiste una ensalada o una hamburguesa". En este caso, vos me dirias "verdadero", porque si bien no es verdad que comiste enslada, si es verdad que comiste hamburguesa.
+Esto es lo que hace el operador ||. Significa "o", y lo que hace es unir dos partes en una frase, y con que una parte sola sea verdadera, entonces toda la frase se considera verdadera.
+
+!: El operador "!" lo que hace es negar algo. Suena complicado, pero pongamos un ejemplo.
+Digamos que desaprobaste un examen de matematicas, y te digo algo a lo cual vos solos podes responder "verdadero" si es verdad lo que digo, o "falso" si es mentira lo que digo.
+Te digo "aprobaste el examen de matematicas". Vos me responderias "falso", porque no lo aprobaste.
+Ahi es donde podemos usar el "!" para negar la frase. Como se usaria?, para ver el ejemplo podemos cambiar la frase.
+Esta vez te digo "NO aprobaste el examen de matematicas", en este caso, vos me responderias "verdadero".
+Escribiendolo usando nuestro operador para negar, a la computadora le podemos decir "! aprobaste el examen de matematicas", que es lo mismo que decir "no aprobaste el examen de matematicas".
