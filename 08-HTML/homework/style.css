@@ -1,0 +1,38 @@
+#thirdDiv {
+  padding: 50px;
+  border-width: 3px;
+  border-color: red;
+  height: 600px;
+  width: 500px;
+  background-color: gray;
+  margin: 0 auto;
+  display: flex;
+  opacity: 0.5;
+}
+.divClass {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+#spanId {
+  font-size: 18px;
+  display: block;
+}
+h1 {
+  color: red;
+  display: block;
+}
+img {
+  width: 400px;
+}
+
+h3 {
+  display: block;
+}
+
+body {
+  background-image: url("https://depor.com/resizer/Yv9e1CVlBnAelKajX3IuwvlP0fQ=/1200x900/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/ZPC62WSIWBAPXPLTGGKHOU6HY4.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
